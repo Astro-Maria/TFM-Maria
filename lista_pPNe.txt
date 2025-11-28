@@ -1,3 +1,4 @@
+
 Variability clas I
 
 Number       RA (deg)    DEC (deg)   IRAS 12   IRAS 25   IRAS 60    IRAS 100
